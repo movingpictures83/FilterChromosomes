@@ -1,0 +1,2 @@
+Prefix plugins/FilterChromosomes/example
+Plugin FilterChromosomes inputfile parameters.txt outputfile Micrococcus.chromosomes.fasta
